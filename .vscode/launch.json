@@ -1,0 +1,88 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExamQuery",
+            "request": "launch",
+            "mainClass": "ExamQuery",
+            "projectName": "java_db"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExamTest",
+            "request": "launch",
+            "mainClass": "ExamTest",
+            "projectName": "java_db"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExamHome",
+            "request": "launch",
+            "mainClass": "ExamHome",
+            "projectName": "java_db"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mainsystem",
+            "request": "launch",
+            "mainClass": "mainsystem",
+            "projectName": "java_db"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HocSinhTest",
+            "request": "launch",
+            "mainClass": "HocSinhTest",
+            "projectName": "java_db"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HocSinhHome",
+            "request": "launch",
+            "mainClass": "HocSinhHome",
+            "projectName": "java_db"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Login",
+            "request": "launch",
+            "mainClass": "Login",
+            "projectName": "java_db"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Connect",
+            "request": "launch",
+            "mainClass": "Connect",
+            "projectName": "java_db"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Connect",
+            "request": "launch",
+            "mainClass": "app.Connect",
+            "projectName": "java_db"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloJdbc",
+            "request": "launch",
+            "mainClass": "app.HelloJdbc",
+            "projectName": "java_db"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Update",
+            "request": "launch",
+            "mainClass": "app.Update",
+            "projectName": "java_db"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "java_db"
+        }
+    ]
+}
